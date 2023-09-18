@@ -1,0 +1,165 @@
+﻿AsignaturasID,Nombre,Tipo,Jornada,Costo,Area
+1,Diseno UX/UI,Cursos,Manana,6.261,1
+2,Diseno UX/UI,Cursos,Tarde,9.265,1
+3,Diseno UX/UI,Cursos,Noche,7.874,1
+4,Diseno UX/UI,Cursos,Sabado,7.244,1
+5,Diseno UX/UI Avanzado,Cursos,Manana,6.379,1
+6,Diseno UX/UI Avanzado,Cursos,Tarde,8.516,1
+7,Diseno UX/UI Avanzado,Cursos,Noche,5.543,1
+8,Diseno UX/UI Avanzado,Cursos,Sabado,8.402,1
+9,UX Writing,Cursos,Manana,8.632,1
+10,UX Writing,Cursos,Tarde,6.022,1
+11,UX Writing,Cursos,Noche,5.077,1
+12,UX Writing,Cursos,Sabado,5.702,1
+13,UX Research,Cursos,Manana,6.856,1
+14,UX Research,Cursos,Tarde,9.121,1
+15,UX Research,Cursos,Noche,9.288,1
+16,UX Research,Cursos,Sabado,5.502,1
+17,Fundamentos del Diseno grafico,Cursos,Manana,8.253,1
+18,Fundamentos del Diseno grafico,Cursos,Tarde,8.143,1
+19,Fundamentos del Diseno grafico,Cursos,Noche,5.751,1
+20,Fundamentos del Diseno grafico,Cursos,Sabado,7.515,1
+21,Prototipado (Figma y adobe XD),Cursos,Manana,8.615,1
+22,Prototipado (Figma y adobe XD),Cursos,Tarde,7.35,1
+23,Prototipado (Figma y adobe XD),Cursos,Noche,7.285,1
+24,Prototipado (Figma y adobe XD),Cursos,Sabado,7.497,1
+25,Motion Graphics,Cursos,Manana,7.354,1
+26,Motion Graphics,Cursos,Tarde,8.337,1
+27,Motion Graphics,Cursos,Noche,5.023,1
+28,Motion Graphics,Cursos,Sabado,8.925,1
+29,Community Manager & Publicidad,Cursos,Manana,8.916,2
+30,Community Manager & Publicidad,Cursos,Tarde,9.112,2
+31,Community Manager & Publicidad,Cursos,Noche,5.261,2
+32,Community Manager & Publicidad,Cursos,Sabado,7.589,2
+33,Publicidad en Redes Avanzado,Cursos,Manana,5.487,2
+34,Publicidad en Redes Avanzado,Cursos,Tarde,7.537,2
+35,Publicidad en Redes Avanzado,Cursos,Noche,9.694,2
+36,Publicidad en Redes Avanzado,Cursos,Sabado,9.576,2
+37,Growth Marketing,Cursos,Manana,5.786,2
+38,Growth Marketing,Cursos,Tarde,7.234,2
+39,Growth Marketing,Cursos,Noche,7.995,2
+40,Growth Marketing,Cursos,Sabado,6.785,2
+41,Inbound Marketing,Cursos,Manana,9.161,2
+42,Inbound Marketing,Cursos,Tarde,5.788,2
+43,Inbound Marketing,Cursos,Noche,7.217,2
+44,Inbound Marketing,Cursos,Sabado,5.145,2
+45,SEO - Optimizacion de motores de busqueda,Cursos,Manana,9.672,2
+46,SEO - Optimizacion de motores de busqueda,Cursos,Tarde,9.074,2
+47,SEO - Optimizacion de motores de busqueda,Cursos,Noche,6.151,2
+48,SEO - Optimizacion de motores de busqueda,Cursos,Sabado,9.232,2
+49,Copywriting,Cursos,Manana,9.509,2
+50,Copywriting,Cursos,Tarde,5.803,2
+51,Copywriting,Cursos,Noche,8.441,2
+52,Copywriting,Cursos,Sabado,8.438,2
+53,Marketing de contenidos,Cursos,Manana,6.279,2
+54,Marketing de contenidos,Cursos,Tarde,6.633,2
+55,Marketing de contenidos,Cursos,Noche,6.655,2
+56,Marketing de contenidos,Cursos,Sabado,7.102,2
+57,Desarrollo Web,Cursos,Manana,9.492,3
+58,Desarrollo Web,Cursos,Tarde,6.303,3
+59,Desarrollo Web,Cursos,Noche,7.341,3
+60,Desarrollo Web,Cursos,Sabado,9.069,3
+61,JavaScript,Cursos,Manana,9.058,3
+62,JavaScript,Cursos,Tarde,7.938,3
+63,JavaScript,Cursos,Noche,7.323,3
+64,JavaScript,Cursos,Sabado,9.386,3
+65,React Js,Cursos,Manana,7.342,3
+66,React Js,Cursos,Tarde,9.223,3
+67,React Js,Cursos,Noche,8.419,3
+68,React Js,Cursos,Sabado,5.123,3
+69,Programaci+¦n Backend,Cursos,Manana,5.212,3
+70,Programaci+¦n Backend,Cursos,Tarde,9.313,3
+71,Programaci+¦n Backend,Cursos,Noche,8.602,3
+72,Programaci+¦n Backend,Cursos,Sabado,8.396,3
+73,Desarrollo de Aplicaciones,Cursos,Manana,8.395,3
+74,Desarrollo de Aplicaciones,Cursos,Tarde,9.434,3
+75,Desarrollo de Aplicaciones,Cursos,Noche,9.875,3
+76,Desarrollo de Aplicaciones,Cursos,Sabado,7.703,3
+77,Python,Cursos,Manana,7.615,3
+78,Python,Cursos,Tarde,9.876,3
+79,Python,Cursos,Noche,7.861,3
+80,Python,Cursos,Sabado,9.329,3
+81,Desarrollo de videojuegos,Cursos,Manana,9.268,3
+82,Desarrollo de videojuegos,Cursos,Tarde,6.239,3
+83,Desarrollo de videojuegos,Cursos,Noche,5.424,3
+84,Desarrollo de videojuegos,Cursos,Sabado,5.799,3
+85,Product Manager,Cursos,Manana,5.522,4
+86,Product Manager,Cursos,Tarde,5.825,4
+87,Product Manager,Cursos,Noche,6.072,4
+88,Product Manager,Cursos,Sabado,8.045,4
+89,E-Commerce,Cursos,Manana,8.105,4
+90,E-Commerce,Cursos,Tarde,6.179,4
+91,E-Commerce,Cursos,Noche,9.085,4
+92,E-Commerce,Cursos,Sabado,7.057,4
+93,Metodologias Agiles,Cursos,Manana,5.368,4
+94,Metodologias Agiles,Cursos,Tarde,5.937,4
+95,Metodologias Agiles,Cursos,Noche,8.399,4
+96,Metodologias Agiles,Cursos,Sabado,9.761,4
+97,Data Analytics,Cursos,Manana,8.877,5
+98,Data Analytics,Cursos,Tarde,9.393,5
+99,Data Analytics,Cursos,Noche,6.388,5
+100,Data Analytics,Cursos,Sabado,6.789,5
+101,Data Science,Cursos,Manana,5.825,5
+102,Data Science,Cursos,Tarde,6.072,5
+103,Data Science,Cursos,Noche,8.045,5
+104,Data Science,Cursos,Sabado,8.105,5
+105,Tableau,Cursos,Manana,6.179,5
+106,Tableau,Cursos,Tarde,9.085,5
+107,Tableau,Cursos,Noche,7.057,5
+108,Tableau,Cursos,Sabado,5.368,5
+109,SQL,Cursos,Manana,5.937,5
+110,SQL,Cursos,Tarde,8.399,5
+111,SQL,Cursos,Noche,9.761,5
+112,SQL,Cursos,Sabado,8.877,5
+113,Photoshop e Illustrator,Cursos,Manana,9.393,6
+114,Photoshop e Illustrator,Cursos,Tarde,6.388,6
+115,Photoshop e Illustrator,Cursos,Noche,6.789,6
+116,Photoshop e Illustrator,Cursos,Sabado,9.265,6
+117,Wordpress,Cursos,Manana,7.874,6
+118,Wordpress,Cursos,Tarde,7.244,6
+119,Wordpress,Cursos,Noche,6.379,6
+120,Wordpress,Cursos,Sabado,8.516,6
+121,After Effects,Cursos,Manana,5.543,6
+122,After Effects,Cursos,Tarde,8.402,6
+123,After Effects,Cursos,Noche,8.632,6
+124,After Effects,Cursos,Sabado,6.022,6
+125,Procesamiento de datos en Excel,Cursos,Manana,5.077,6
+126,Procesamiento de datos en Excel,Cursos,Tarde,5.702,6
+127,Procesamiento de datos en Excel,Cursos,Noche,6.856,6
+128,Procesamiento de datos en Excel,Cursos,Sabado,9.121,6
+129,Maketing Digital,Carrera,Manana,9.288,2
+130,Maketing Digital,Carrera,Tarde,5.502,2
+131,Maketing Digital,Carrera,Noche,6.279,2
+132,Maketing Digital,Carrera,Sabado,6.633,2
+133,Desarrollo Front End,Carrera,Manana,6.655,3
+134,Desarrollo Front End,Carrera,Tarde,7.102,3
+135,Desarrollo Front End,Carrera,Noche,9.492,3
+136,Desarrollo Front End,Carrera,Sabado,6.303,3
+137,Producto,Carrera,Manana,7.041,4
+138,Producto,Carrera,Tarde,9.069,4
+139,Producto,Carrera,Noche,9.058,4
+140,Producto,Carrera,Sabado,7.938,4
+141,Diseno UX/UI,Carrera,Manana,7.323,1
+142,Diseno UX/UI,Carrera,Tarde,9.386,1
+143,Diseno UX/UI,Carrera,Noche,7.342,1
+144,Diseno UX/UI,Carrera,Sabado,9.223,1
+145,Desarrollo Full Stack,Carrera,Manana,8.419,3
+146,Desarrollo Full Stack,Carrera,Tarde,5.123,3
+147,Desarrollo Full Stack,Carrera,Noche,5.212,3
+148,Desarrollo Full Stack,Carrera,Sabado,9.313,3
+149,Desarrollo UX/UI,Carrera,Manana,8.602,1
+150,Desarrollo UX/UI,Carrera,Tarde,8.396,1
+151,Desarrollo UX/UI,Carrera,Noche,8.395,1
+152,Desarrollo UX/UI,Carrera,Sabado,9.434,1
+153,Data Science,Carrera,Manana,9.875,5
+154,Data Science,Carrera,Tarde,7.703,5
+155,Data Science,Carrera,Noche,7.615,5
+156,Data Science,Carrera,Sabado,9.876,5
+157,Diseno UX Writing,Carrera,Manana,7.861,1
+158,Diseno UX Writing,Carrera,Tarde,9.329,1
+159,Diseno UX Writing,Carrera,Noche,9.268,1
+160,Diseno UX Writing,Carrera,Sabado,6.239,1
+161,Diseno UX Research,Carrera,Manana,5.424,1
+162,Diseno UX Research,Carrera,Tarde,7.325,1
+163,Diseno UX Research,Carrera,Noche,4.82,1
+164,Diseno UX Research,Carrera,Sabado,5.124,1
